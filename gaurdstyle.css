@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.far{
+	height: 100px;
+	width: 100px;
+}
+.profile{
+	font-size: 50px;
+}
